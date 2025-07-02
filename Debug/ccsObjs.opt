@@ -1,0 +1,7 @@
+"./library.obj"
+"./main.obj"
+"./main_routine.obj"
+"./pong_lib.obj"
+"./tm4c123gh6pm_startup_ccs.obj"
+"../tm4c123gh6pm.cmd"
+-llibc.a
